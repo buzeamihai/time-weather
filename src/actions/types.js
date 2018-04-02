@@ -1,0 +1,1 @@
+export const SEARCH_WEATHER = 'search_weather';

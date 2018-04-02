@@ -1,0 +1,29 @@
+.card-panel.customize {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.card-panel.customize.homepage {
+    background-image: url("https://image.stirileprotv.ro/media/images/680xX/Jan2010/60397725.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+
+.weatherpage {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.page-footer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
